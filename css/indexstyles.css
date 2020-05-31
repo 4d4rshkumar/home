@@ -1,0 +1,132 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+}
+
+h1{
+  margin: 0;
+  font-family: 'Dancing Script', cursive;
+  padding: 40px;
+  color: #004a7c;
+  font-size: 4rem;
+}
+h2{
+  color: #00204a;
+  font-size: 2rem;
+}
+h3{
+  color: #00204a;
+  font-size: 2rem;
+}
+h4{
+  color: #00204a;
+  font-size: 1.5rem;
+  margin: 0;
+}
+h6{
+  margin: 2px 10px 0 0;;
+  font-size: 2rem;
+  color: #005691;
+
+}
+hr{
+  border-style: dotted;
+  border-width: 10px 0 0;
+  width: 10%;
+  color: #e8f1f5;
+  margin: 100px auto;
+
+  }
+.about{
+  text-decoration: none;
+  color:  #303841;
+}
+.about:hover{
+  color: grey;
+}
+.btn{
+
+  background-color: #1e56a0;
+  border-radius: 3px;
+  color:white;
+  text-decoration: none;
+  padding: 10px;
+}
+.btn:hover{
+  background-color: #163172;
+  color: white;
+}
+.bot{
+  width: 50%;
+  line-height: 2;
+  margin: auto;
+}
+.foot{
+  margin-top: 50px;
+  background-color: #6eb6ff;
+  height: 200px;
+}
+.h
+{
+  height: 50px;
+  padding: 5px;
+  background-color:#d6e6f2;
+}
+.himg{
+  width: 50%;
+  float: left;
+  height: 50px;
+}
+.himg2{
+  width: 50%;
+  text-align: right;
+  float: right;
+}
+.img
+{
+  float: left;
+}
+.imgsk1{
+  width: 20%;
+  float: left;
+  margin-right: 30px;
+}
+.imgsk2{
+  width: 20%;
+  float: right;
+  margin-left: 30px;
+}
+.imgbtop{
+  width: 10%;
+  height: auto;
+}
+.links{
+  display: inline-block;
+  padding: 40px;
+  text-decoration: none;
+  font-size: 25px;
+}
+.links:hover{
+  color: grey;
+
+}
+.smry{
+  width: 50%;
+  margin: auto;
+  font-size: 1.3rem;
+  font-weight: 300;
+  color: #005691;
+  line-height: 2;
+}
+.sk{
+  width: 50%;
+  margin: 100px auto 100px;
+  text-align: left;
+  line-height: 2;
+}
+.top
+{
+  background-color: #a1eafb;
+  margin:0 0 50px;
+}
